@@ -25,4 +25,5 @@ font:arial }
 
 .beneficos { background: #FFFFFF; padding: 20px ; }
 
-ul { display: inline-block ; vertical-align: top; width: 20%; margin-right: 15%; } .imgbeneficios { width: 50%; }
+ul { display: inline-block ; vertical-align: top; width: 9%; margin-right: 15%; height: 50%;} 
+.imgbeneficios { width: 45%; height: 95%; }
